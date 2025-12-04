@@ -4,7 +4,8 @@ __pycache__/
 *.pyo
 
 # Data and models (too large for GitHub)
-data/
+data/processed/
+data/raw/
 models/
 
 # Virtual environments
