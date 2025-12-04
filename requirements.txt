@@ -1,4 +1,4 @@
-torch==2.0.0              # PyTorch library for AI
+torch==2.9.0              # PyTorch library for AI
 transformers==4.30.0      # Pre-trained AI models
 gradio==3.40.0           # Web interface builder
 langchain==0.0.200       # Helps organize AI workflows
