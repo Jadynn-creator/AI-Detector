@@ -1,0 +1,7 @@
+torch==2.0.0              # PyTorch library for AI
+transformers==4.30.0      # Pre-trained AI models
+gradio==3.40.0           # Web interface builder
+langchain==0.0.200       # Helps organize AI workflows
+datasets==2.12.0         # Manages training datasets
+numpy==1.24.0            # Math operations
+scikit-learn==1.2.0      # Machine learning utilities

@@ -1,0 +1,17 @@
+# Python temporary files
+__pycache__/
+*.pyc
+*.pyo
+
+# Data and models (too large for GitHub)
+data/
+models/
+
+# Virtual environments
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
